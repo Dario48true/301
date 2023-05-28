@@ -1,2 +1,2 @@
-# 301
- 301 redirect
+# meta redirect
+ meta redirect
